@@ -1,4 +1,4 @@
 # Stima_02
-Tugas besar Strategi Algoritma 2
+Tugas besar 2 matakuliah Strategi Algoritma 
 
 Topik : DFS dan BFS
